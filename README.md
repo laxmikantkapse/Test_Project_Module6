@@ -8,9 +8,13 @@ o First Name: at least 3 characters
 
 o Last Name: at least 3 characters
 
-o Email:  Email entered (not left blank)  Should contain ‘@’ and ‘.’  After last ., there should be at least be 2 characters  First character cannot be @ - Done
+o Email: Email entered (not left blank) 
+          Should contain ‘@’ and ‘.’ 
+          After last ., there should be at least be 2 characters 
+          First character cannot be @ - Done
 
-o Phone Number:  Length exactly equal to 10 characters  Only numbers allowed
+o Phone Number:  Length exactly equal to 10 characters 
+                 Only numbers allowed
 
 o Batch Number:  Has selected any of 1, 2, 3
 
@@ -21,3 +25,5 @@ o Agree to Terms and Conditions  Checked
 o Show the below alert
 
 o Clear/ Reset all the fields
+
+DEMO :  https://laxmikantkapse.github.io/Test_Project_Module6/
